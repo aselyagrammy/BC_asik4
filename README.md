@@ -52,7 +52,7 @@ Contract Address: 0xA57155e0012FE6408DE46a7d345E4bcb93e2d0C9
 
 ## Screenshots
 ### Screenshot 1
-![Screenshot 1](screenshots/image_2025-02-06_19-29-51.png)
+![Screenshot 1](screenshots/f9040982-fad9-47ee-9778-64d7a789aef0.png)
 
 ### Screenshot 2
 ![Screenshot 2](screenshots/image_2025-02-06_23-59-21.png)
