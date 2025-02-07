@@ -52,13 +52,10 @@ Contract Address: 0xA57155e0012FE6408DE46a7d345E4bcb93e2d0C9
 
 ## Screenshots
 ### Screenshot 1
-![Screenshot 1](screenshots/f9040982-fad9-47ee-9778-64d7a789aef0.png)
+![Screenshot 1](screenshots/scr1.png)
 
 ### Screenshot 2
-![Screenshot 2](screenshots/image_2025-02-06_23-59-21.png)
-
-### Screenshot 3
-![Screenshot 1](screenshots/4af5ba11-d183-4539-af67-138fb34b4788.jpg)
+![Screenshot 2](scr2.png)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
