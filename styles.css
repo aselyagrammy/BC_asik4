@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    background-color: #000; /* Черный фон */
+    color: #fff; /* Белый текст */
+}
+
+
+button {
+    padding: 12px 20px;
+    margin: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    background: linear-gradient(135deg, #6a0dad, #9b30ff); /* Градиент фиолетового */
+    color: #fff;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 0 10px rgba(155, 48, 255, 2); /* Постоянное свечение */
+}
+
+
+button:hover {
+    transform: scale(1.3);
+    box-shadow: 0 0 20px rgba(155, 48, 255, 4); /* Усиленное свечение */
+}
+
+/* Стили инпутов */
+input {
+    padding: 10px;
+    margin: 8px;
+    width: 250px;
+    border: 2px solid #6a0dad;
+    border-radius: 5px;
+    background: #222; /* Темный фон для инпутов */
+    color: #fff;
+}
+
+/* Стили контейнера для моделей */
+#models {
+    margin-top: 20px;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.1); /* Полупрозрачный блок */
+    border-radius: 10px;
+}
+
+/* Заголовки */
+h1, h2 {
+    color: #9b30ff; /* Фиолетовый заголовок */
+}

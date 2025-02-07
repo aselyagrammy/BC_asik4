@@ -4,9 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AI Model Marketplace</title>
+    <style src = "styles.css"></style>
     <script src="https://cdn.jsdelivr.net/npm/web3@1.8.2/dist/web3.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/ethers@5.6.9/dist/ethers.umd.min.js"></script>
-
+    <link rel="stylesheet" href="styles.css">
     <style>
         body { font-family: Arial, sans-serif; text-align: center; margin: 20px; }
         button { padding: 10px; margin: 5px; cursor: pointer; }
@@ -24,7 +25,7 @@
 <h2>List a Model</h2>
 <input id="modelName" placeholder="Model Name" /><br>
 <input id="modelDesc" placeholder="Description" /><br>
-<input id="modelPrice" type="number" placeholder="Price in Tokens" /><br>
+<input id="modelPrice" type="number" placeholder="Price in Tokens" min="0"/><br>
 <input id="modelLink" placeholder="Model Link" /><br>
 <button onclick="listModel()">List Model</button>
 
